@@ -1,6 +1,7 @@
 ## vscode extensions
 
 Prettier - code formatter
+ES7+ React/Redux/React-Native snippets
 
 ## vscode settings
 
@@ -11,6 +12,8 @@ preferences -- settings -- search for (format on save) and enable it
 ctrl + t
 ">Format Document"
 select prettier from options
+
+ctrl + d is for multi cursor editing
 
 ## to creat project
 
@@ -30,3 +33,4 @@ npm run dev
 npm i bootstrap@5.2.3
 
 [Listgroup - bootstrap sample](https://getbootstrap.com/docs/4.0/components/list-group/)
+[Alerts - bootstrap sample](https://getbootstrap.com/docs/4.0/components/alerts/)
