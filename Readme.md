@@ -1,3 +1,9 @@
+## chrome addins
+
+React Dev Tools
+
+- this will create a new options in inspect, Components and Profiler
+
 ## vscode extensions
 
 Prettier - code formatter
