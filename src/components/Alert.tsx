@@ -1,12 +1,12 @@
 //rafce
 interface Props {
-  text: string;
+  children: string;
 }
 
-const Alert = ({ text }: Props) => {
+const Alert = ({ children }: Props) => {
   return (
     <div className="alert alert-primary" role="alert">
-      This is a primary alert—check for text - {text}
+      This is a primary alert—check for text - {children}
     </div>
   );
 };
