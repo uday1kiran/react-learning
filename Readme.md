@@ -38,5 +38,6 @@ npm run dev
 
 npm i bootstrap@5.2.3
 
-[Listgroup - bootstrap sample](https://getbootstrap.com/docs/4.0/components/list-group/)
-[Alerts - bootstrap sample](https://getbootstrap.com/docs/4.0/components/alerts/)
+- [Listgroup - bootstrap sample](https://getbootstrap.com/docs/4.0/components/list-group/)
+- [Alerts - bootstrap sample](https://getbootstrap.com/docs/4.0/components/alerts/)
+- [Reference video](https://www.youtube.com/watch?v=SqcY0GlETPk)
