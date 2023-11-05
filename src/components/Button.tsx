@@ -1,6 +1,6 @@
 interface Props {
   children: string;
-  color?: "primary" | "secondary" | "danger"; //string; //? means optional parameter
+  color?: "primary" | "secondary" | "danger" | "close"; //string; //? means optional parameter
   onClick: () => void;
 }
 
