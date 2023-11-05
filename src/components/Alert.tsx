@@ -1,6 +1,8 @@
+import { ReactNode } from "react";
+
 //rafce
 interface Props {
-  children: string;
+  children: ReactNode;
 }
 
 const Alert = ({ children }: Props) => {
